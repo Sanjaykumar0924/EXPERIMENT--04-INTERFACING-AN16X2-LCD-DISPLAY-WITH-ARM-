@@ -1,6 +1,6 @@
 ```
-Name : SATHISH R
-Roll no : 212222100048
+Name : KAVINRAJA D
+Roll no : 212222240047
 ```
 # EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM AND DISPLAY STRING
 
@@ -266,7 +266,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ```
 ## Output screen shots of proteus  :
- ![out](lcd1.png)
+ ![out](lcd.png)
  
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
   ![out](lcd2.png)
